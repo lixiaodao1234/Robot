@@ -30,7 +30,7 @@ Link_Type DH_Param[] = { { {  0,  0,    0}, {    0, 0,     0} },
 
 int main()
 {
-    cout << "Hello World!" << endl;
+ 
 
     double j[] = { 45, -45, -92, 182, 50, 180 };
     double path[] = { 0, 0, 0, 0, 0, 0};

@@ -12,7 +12,7 @@ add_executable(RobotKinematics src/RobotKinematics/main.cpp
         src/RobotKinematics/Kinematics.cpp
         src/RobotKinematics/Misc.cpp)
 
-add_executable(SimRobotKine src/MyRobotKine/main.cpp
+add_executable(MyRobotKine src/MyRobotKine/main.cpp
         src/MyRobotKine/DHParam.cpp
         src/MyRobotKine/Kinematics.cpp
         src/MyRobotKine/Utils.cpp)
